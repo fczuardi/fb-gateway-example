@@ -16,7 +16,7 @@
   "devDependencies": {},
   "dependencies": {
     "calamarble-fb-webhook-verify": "^1.0.15",
-    "calamarble-xhub": "^0.3.0",
+    "calamarble-xhub": "^0.4.0",
     "claudia-api-builder": "^1.5.0"
   }
 }
